@@ -7,8 +7,6 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 
 
-- ### [YouTube: How To Configure osTicket, post-installation](https://www.youtube.com)
-
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
@@ -26,25 +24,64 @@ The objectives of this Post- Install is to setup how the Osticket is used. By do
 <h2>Configuration Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/6GiPJta.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/hyjxeZJ.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Onl9EsA.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Configure Roles and create an Admin, allowing permissions
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/kH2rS5Y.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Configure Department
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/aOXdxmo.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Configure Teams
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/CK2Dtbn.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/deSfG4v.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Configure Agents (workers)
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/wM47Acr.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/9qDANRu.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/i2kvLnN.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Configure Users (customers)
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/l85BHpB.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/8Fruhit.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Configure SLA
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/6xm4RF5.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/fbgS9mt.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Configure Help Topics
 </p>
 <br />
