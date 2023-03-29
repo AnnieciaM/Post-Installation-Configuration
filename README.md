@@ -19,7 +19,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Post-Install Configuration Objectives</h2>
 
-The objectives of this Post- Install is to setup how the Osticket is used. By doing so, we will configure roles (permissions granted to agents per department), departments (determining which departments for certain tickets), teams (allows agents from different department to handle certian tickets), agents (given access to help desk to resolve tickets), users(the ticket owners of the tickets in help desk), SLA (service legal agreement - which is the timeline for the length of time in expectations to when the ticket will be closed) , and help topics (the topic for each ticket). Each one of these configurations are necessary to use Osticketing system.
+The objectives of this Post- Install is to setup how the Osticket is used. By doing so, we will configure roles (permissions granted to agents per department), departments (determining which departments for certain tickets), teams (allows agents from different department to handle certian tickets), agents (given access to help desk to resolve tickets), users(the ticket owners of the tickets in help desk), SLA (service legal agreement - which is the timeline for the length of time in expectations to when the ticket will be closed) , and help topics (the topic for each ticket). Each one of these configurations are necessary to use Osticketing system. We will be using the Admin and Agent Panel in Osticket to configure.
 
 <h2>Configuration Steps</h2>
 
@@ -29,7 +29,7 @@ The objectives of this Post- Install is to setup how the Osticket is used. By do
 <img src="https://i.imgur.com/Onl9EsA.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Configure Roles and create an Admin, allowing permissions
+Configure Roles (Admin Panel) and create an Admin, allowing permissions 
 </p>
 <br />
 
@@ -37,7 +37,7 @@ Configure Roles and create an Admin, allowing permissions
 <img src="https://i.imgur.com/kH2rS5Y.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Configure Department
+Configure Department (Admin Panel)
 </p>
 <br />
 
@@ -45,7 +45,7 @@ Configure Department
 <img src="https://i.imgur.com/aOXdxmo.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Configure Teams
+Configure Teams (Admin Panel)
 </p>
 <br />
 
@@ -54,7 +54,7 @@ Configure Teams
 <img src="https://i.imgur.com/deSfG4v.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Configure Agents (workers)
+Configure Agents (workers) (Admin Panel)
 </p>
 <br />
 
@@ -64,7 +64,7 @@ Configure Agents (workers)
 <img src="https://i.imgur.com/i2kvLnN.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Configure Users (customers)
+Configure Users (customers) (Agent Panel)
 </p>
 <br />
 
@@ -73,7 +73,7 @@ Configure Users (customers)
 <img src="https://i.imgur.com/8Fruhit.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Configure SLA
+Configure SLA (Admin Panel)
 </p>
 <br />
 
@@ -82,6 +82,6 @@ Configure SLA
 <img src="https://i.imgur.com/fbgS9mt.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Configure Help Topics
+Configure Help Topics (Admin Panel)
 </p>
 <br />
