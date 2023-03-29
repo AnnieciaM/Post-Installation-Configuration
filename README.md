@@ -6,7 +6,6 @@
 This tutorial outlines the post-install configuration of the open-source help desk ticketing system osTicket.<br />
 
 
-<h2>Video Demonstration</h2>
 
 - ### [YouTube: How To Configure osTicket, post-installation](https://www.youtube.com)
 
@@ -22,11 +21,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Post-Install Configuration Objectives</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+The objectives of this Post- Install is to setup how the Osticket is used. By doing so, we will configure roles (permissions granted to agents per department), departments (determining which departments for certain tickets), teams (allows agents from different department to handle certian tickets), agents (given access to help desk to resolve tickets), users(the ticket owners of the tickets in help desk), SLA (service legal agreement - which is the timeline for the length of time in expectations to when the ticket will be closed) , and help topics (the topic for each ticket). Each one of these configurations are necessary to use Osticketing system.
 
 <h2>Configuration Steps</h2>
 
